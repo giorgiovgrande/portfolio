@@ -55,6 +55,11 @@ h1{
     display: flex; 
    
 }
+
+.social {
+    display: flex; 
+   
+}
 img {
     border-radius: 14px;
     display: block;
